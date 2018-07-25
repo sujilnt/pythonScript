@@ -1,0 +1,15 @@
+
+C:\Users\Optimised\Desktop\pythonscripts>echo "bash is running " 
+"bash is running "
+
+C:\Users\Optimised\Desktop\pythonscripts>echo "bash is running " 
+"bash is running "
+
+C:\Users\Optimised\Desktop\pythonscripts>echo "bash is running " 
+"bash is running "
+
+C:\Users\Optimised\Desktop\pythonscripts>echo "bash is running " 
+"bash is running "
+
+C:\Users\Optimised\Desktop\pythonscripts>echo "bash is running " 
+"bash is running "
